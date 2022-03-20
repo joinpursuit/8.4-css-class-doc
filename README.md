@@ -8,7 +8,9 @@ This document will serve as our collective repo for css tips and tricks that we 
 [Images](#Images)
  
 ## How does this work?
-Anyone can make edit's or PR's to this document.  If you happen to find a CSS rule you are a fan of consider adding it to this document.  
+Anyone can make edit's or PR's to this document.  
+<br> 
+If you happen to find a CSS rule you are a fan of consider adding it to this document.  
 <br>
 All Rules should be placed under a broader category. 
 <br>
